@@ -1,2 +1,10 @@
 # Repositorioatividade
-Esse repositorio contem em si apenas alguns testes de pagina web em html 
+# Meu Portfólio
+
+Projeto criado para a disciplina bootcamp.
+
+## Tecnologias
+- HTML
+- CSS
+- Git
+- GitHub
